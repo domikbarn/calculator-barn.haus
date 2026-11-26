@@ -1,1 +1,1 @@
-shchelkovo.calculator
+calculator-barn.haus
