@@ -1,1 +1,1 @@
-# calculator-barn.haus
+shchelkovo.calculator
